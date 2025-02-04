@@ -1,4 +1,4 @@
-# Shader art coding
+# Shader Art Coding
 
 Kishimisu #1 : Shader art coding
 
