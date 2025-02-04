@@ -2,7 +2,7 @@
 
 Kishimisu #1 : Shader art coding
 
-[Shader art coding video]()
+[Shader art coding video](https://github.com/user-attachments/assets/300b94f6-0803-4345-a524-a835f44ce391)
 
 ## Description
 - Visualize the shader art being constructed bit by bit
